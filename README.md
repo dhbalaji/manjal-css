@@ -1,6 +1,10 @@
 # manjal-css
 
-Minimal CSS library for building layouts & styling commonly used HTML components.
+Minimal CSS library for 
+
+1. building layouts
+2. styling commonly used HTML components
+3. complex parts like navbar
 
 > This is WIP
 
