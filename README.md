@@ -1,4 +1,4 @@
-# mannjal-css
+# manjal-css
 
 Minimal CSS library for building layouts & styling commonly used HTML components.
 
